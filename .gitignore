@@ -1,0 +1,5 @@
+venv/bin
+venv/etc
+venv/
+temp/*
+__pycache__

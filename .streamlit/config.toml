@@ -1,0 +1,16 @@
+[server]
+maxUploadSize = 2
+
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#7792E3'
+
+# Background color for the main content area
+backgroundColor = '#1C1459'
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#4124C3'
+
+# Color used for almost all text
+textColor = '#FFFFFF'
