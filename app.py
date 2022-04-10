@@ -4,6 +4,8 @@ from time import time
 import streamlit as st
 import io
 import time
+import os
+
 temp_folder = './temp/'
 active = False
 st.title('Video Object Detection')
@@ -24,6 +26,9 @@ if video_file is not None:
     st.video(video_file.read(), format=video_file.type)
     data_bytes = io.BytesIO(video_file.getvalue())
     file_dir = temp_folder + "upload.mp4"
+    if os.path.exists(temp_folder) == False:
+        os.makedirs(temp_folder)
+
     with open(file_dir, 'wb') as output:
         output.write(data_bytes.read())
     print("File saved")     
