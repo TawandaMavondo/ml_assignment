@@ -33,7 +33,7 @@ if active:
                                placeholder="car, bike etc")
 
     def on_click():
-        status, label, frame = search_object.search(object_str,video_file.getValue())
+        status, label, frame = search_object.search(object_str,io.BytesIO(video_file.getvalue()))
         if status:
             st.image(frame)
         else:
