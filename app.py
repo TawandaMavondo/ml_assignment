@@ -12,7 +12,7 @@ st.subheader('Please Upload the video which you want to detect objects on.')
 with st.sidebar:
     st.header('Group Members')
     st.write('Tawanda Godbless Mavondo R204447C')
-    st.write("Eugenia Mavhura R20")
+    st.write("Eugenia Mavhura R202071N")
 # Main application File
 
 
