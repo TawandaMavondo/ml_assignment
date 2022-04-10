@@ -7,9 +7,9 @@ VIDEO_PATH = './temp/upload.mp4'
 object_detection = ObjectDetection()
 
 
-def search(object: str):
+def search(object: str,video_bytes):
 
-    video_capture = VideoCapture(VIDEO_PATH)
+    video_capture = VideoCapture(video_bytes)
     frame_number = 0
     # try:
     while video_capture.isOpened():
