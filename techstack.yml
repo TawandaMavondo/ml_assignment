@@ -2,7 +2,7 @@ repo_name: TawandaMavondo/ml_assignment
 report_id: 81576ebb52128519fd3ac723be4d7ed9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:28+00:00'
+timestamp: '2024-02-29T19:00:11+00:00'
 requested_by: TawandaMavondo
 provider: github
 branch: master
@@ -219,6 +219,13 @@ tools:
     detected_date: Aug 12
     severity: critical
     first_patched: 3.1.32
+  - name: Untrusted search path under some conditions on Windows allows arbitrary
+      code execution
+    cve_id: CVE-2024-22190
+    cve_url: https://github.com/advisories/GHSA-2mqj-m65w-jghx
+    detected_date: Jan 11
+    severity: high
+    first_patched: 3.1.41
   - name: GitPython vulnerable to Remote Code Execution due to improper user input
       validation
     cve_id: CVE-2022-24439
