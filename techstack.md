@@ -3,18 +3,18 @@
 ## Tech Stack
 TawandaMavondo/ml_assignment is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - [Pandoc](https://pandoc.org/) – File Conversion
 - [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - [IPython](http://ipython.org/index.html) – Shells
-- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [Streamlit](https://streamlit.io) – Machine Learning Tools
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Streamlit](https://streamlit.io) – Machine Learning Tools
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -24,18 +24,18 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 TawandaMavondo/ml_assignment is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
 - <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/ml_assignment](https://github.com/TawandaMavondo/ml_assignment)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|108<br/>Tools used|01/05/24 <br/>Report generated|
+|108<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -200,7 +200,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[Flask](https://pypi.org/project/Flask)|v2.1.1|04/09/22|Tawanda |BSD-3-Clause|N/A|
-|[GitPython](https://pypi.org/project/GitPython)|v3.1.27|04/10/22|tawandamavondo |BSD-3-Clause|[CVE-2023-40267](https://github.com/advisories/GHSA-pr76-5cm5-w9cj) (Critical)<br/>[CVE-2022-24439](https://github.com/advisories/GHSA-hcpj-qp55-gfph) (High)<br/>[CVE-2023-41040](https://github.com/advisories/GHSA-cwvm-v4w8-q58c) (Moderate)|
+|[GitPython](https://pypi.org/project/GitPython)|v3.1.27|04/10/22|tawandamavondo |BSD-3-Clause|[CVE-2023-40267](https://github.com/advisories/GHSA-pr76-5cm5-w9cj) (Critical)<br/>[CVE-2024-22190](https://github.com/advisories/GHSA-2mqj-m65w-jghx) (High)<br/>[CVE-2022-24439](https://github.com/advisories/GHSA-hcpj-qp55-gfph) (High)<br/>[CVE-2023-41040](https://github.com/advisories/GHSA-cwvm-v4w8-q58c) (Moderate)|
 |[Markdown](https://pypi.org/project/Markdown)|v3.3.6|04/09/22|Tawanda |BSD-3-Clause|N/A|
 |[MarkupSafe](https://pypi.org/project/MarkupSafe)|v2.1.1|04/09/22|Tawanda |BSD-3-Clause|N/A|
 |[Pygments](https://pypi.org/project/Pygments)|v2.11.2|04/09/22|Tawanda |BSD-3-Clause|[CVE-2022-40896](https://github.com/advisories/GHSA-mrwq-x4v8-fh7p) (Moderate)|
